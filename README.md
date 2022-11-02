@@ -8,7 +8,7 @@ This is a template for creating a Discord bot in [Python](https://www.python.org
 2. Follow instructions on github
 3. Navigate in the desired directory and type: 
 ```
-git clone https://github.com/Mankifg/DiscordTemplateBot
+git clone [your repository link]
 cd DiscordTemplateBot
 py -m pip install -r requirements.txt
 ```
