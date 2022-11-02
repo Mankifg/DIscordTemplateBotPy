@@ -2,6 +2,17 @@
 This is a template for creating a Discord bot in [Python](https://www.python.org/)
 
 # How to use this template
+
+## Download the template
+1. Click on [Use this template](https://github.com/Mankifg/DiscordTemplateBotPy/generate)
+2. Follow instructions on github
+3. Navigate in the desired directory and type: 
+```
+git clone https://github.com/Mankifg/DiscordTemplateBot
+cd DiscordTemplateBot
+py -m pip install -r requirements.txt
+```
+
 ## Creating bot at Dev Portal
 1. Create a new Discord bot at [Discord dev portal](https://discord.com/developers/applications)
 2. Create a bot and under **Privileged Gateway Intents** turn on at least **MESSAGE CONTENT INTENT** (Turn others if necessary)
